@@ -1,6 +1,6 @@
 *.png
-generate_newdata/fetch_irasutoya_img/fetch_irasutoya.ipynb
-generate_newdata/fetch_irasutoya_img/page_sample/url1_sample.txt
-generate_newdata/fetch_irasutoya_img/page_sample/url3_sample.txt
-generate_newdata/fetch_irasutoya_img/page_sample/url2_sample.txt
-generate_newdata/plot_japanese_text/fontcheck.ipynb
+_generate_newdata/fetch_irasutoya_img/fetch_irasutoya.ipynb
+_generate_newdata/fetch_irasutoya_img/page_sample/url1_sample.txt
+_generate_newdata/fetch_irasutoya_img/page_sample/url3_sample.txt
+_generate_newdata/fetch_irasutoya_img/page_sample/url2_sample.txt
+_generate_newdata/plot_japanese_text/fontcheck.ipynb
