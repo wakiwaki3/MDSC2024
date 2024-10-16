@@ -7,3 +7,4 @@ _generate_newdata/plot_japanese_text/fontcheck.ipynb
 *image*.txt
 label_*.json
 *venv/
+yolov5/
