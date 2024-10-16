@@ -6,3 +6,4 @@ _generate_newdata/fetch_irasutoya_img/page_sample/url2_sample.txt
 _generate_newdata/plot_japanese_text/fontcheck.ipynb
 *image*.txt
 label_*.json
+*venv/
